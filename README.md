@@ -86,7 +86,8 @@ Zomato-Data-Analytics/
 
 ## 📸 Dashboard Preview
 
-<img width="793" height="423" alt="Screenshot 2026-04-25 at 09 01 56" src="https://github.com/user-attachments/assets/1f5538b5-2adc-4f7c-917a-a9b4abdd9867" />
+<img width="783" height="408" alt="Screenshot 2026-04-25 at 09 13 51" src="https://github.com/user-attachments/assets/f6d8a9dc-5882-4cac-aaa0-bb1581bfed5e" />
+
 
 ---
 
