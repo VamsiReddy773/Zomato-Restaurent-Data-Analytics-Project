@@ -74,7 +74,7 @@ Zomato-Data-Analytics/
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/zomato-data-analytics.git
+[git clone https://github.com/your-username/zomato-data-analytics.git](https://github.com/VamsiReddy773/Zomato-Restaurent-Data-Analytics-Project/tree/main)
 ```
 
 - Open `.pbix` file using Power BI Desktop  
